@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 # Author: Boumediene KADDOUR - OSCP, OSWP
 # Created for learning purposes and Pentest Magazine article contribution
 # Basic echo-server
